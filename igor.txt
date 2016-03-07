@@ -1,6 +1,6 @@
-aula de hoje
+Aula de hoje:
 
-vamos testar a integração do github
+Vamos testar a integração do GitHub.
 
 
-vamos corrigir a issue
+Vamos corrigir a issue.
